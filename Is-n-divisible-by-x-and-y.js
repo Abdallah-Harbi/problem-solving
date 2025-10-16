@@ -3,3 +3,4 @@ function isDivisible(n, x, y) {
       return true;
   else return false;
 }
+
